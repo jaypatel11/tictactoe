@@ -19,7 +19,6 @@ Scope:
 The current version supports Human v/s Computer only. However, Human v/s Human is possible with a few changes in the model with a few changes.
 
 Inputs:
-
 The human can enter a number 1-9 to indicate the "spot" where he wants to put "0"
 If he/she/it enters a spot already taken, input has to be entered again. This even applies to a
 BadComputerPlayer who generates already occupied spot! In short, a bad AI generating the same move can be forced to generate a new move!
