@@ -1,8 +1,8 @@
-Installation:
-1. Clone/Download as zip this repo
-2. Do a mvn clean install on the root directory(Maven version 3+ should work fine)
-3. cd target/appassembler/bin
-4. Run the script with ./tictactoe and enjoy!
+Installation:<br />
+1. Clone/Download as zip this repo<br />
+2. Do a mvn clean install on the root directory(Maven version 3+ should work fine)<br />
+3. cd target/appassembler/bin<br />
+4. Run the script with ./tictactoe and enjoy!<br />
 
 
 Design:
