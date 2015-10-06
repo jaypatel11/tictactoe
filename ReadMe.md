@@ -29,3 +29,4 @@ Enhancements possible:<br />
 1. SmartComputerPlayer<br />
 2. Human vs Human, Computer v/s Computer, Human v/s Computer<br />
 3. Give the user choice for X or 0<br />
+4. Check to see if two players aren't choosing both X or 0
